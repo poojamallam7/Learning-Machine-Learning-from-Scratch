@@ -1,1 +1,17 @@
+BASICS THAT NEED TO KNOWN:
 
+First before starting python lets understand concept why we are learning Machine Leaning and what are its basic
+
+Data:
+1. In ML we usually deal with data
+2.Place where we store data is called database.
+3. Data is of different types
+     1. Structured  - SQL DB/RDBMS/SQL Server/Tera Data
+     2. Unstructured -MongoDB , Cassandra, DynamoDB ,Redis
+     3. Semi- Structured
+
+We need to know SQL to know Structured data
+We need to learn json language for Unstructured data.
+
+Data Science :
+Getting data from different sources and extracting meaningfull information from data is called data science.
