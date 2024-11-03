@@ -4,7 +4,7 @@ First before starting python lets understand concept why we are learning Machine
 
 Data:
 1. In ML we usually deal with data
-2.Place where we store data is called database.
+2. Place where we store data is called database.
 3. Data is of different types
      1. Structured  - SQL DB/RDBMS/SQL Server/Tera Data
      2. Unstructured -MongoDB , Cassandra, DynamoDB ,Redis
@@ -22,8 +22,14 @@ Example: When you buy a plot we make plan this plan is called the AI.
 
 They are three types of AI
 1. Artificial Nano Intelligence
-2. Artificial Super Intelligence
-3. 
+      When machine performs what human tells.
+2. Artificial General Intelligence
+      When a machine behaves like human.
+      Need human to develop machines but after that they will do they work as humans.
+3. Artificial Super Intelligence
+      When a machine thinks scenarios where humans cant think. This technology is not yet present.
+      Here machine will create machines and they can upgrade, research and perform tasks.
+      This technology can make things easier for humans as well as they can destroy the humans if they feel treat.
 
 Machine Learning :
 
