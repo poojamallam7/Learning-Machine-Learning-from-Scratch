@@ -3,12 +3,59 @@
 Points:
 Statistics is branch of mathematics which is very important ti know the patterns in data.
 To predict and know data inclination we can use statistics.
-In real world it is used in all sectors from medical in genetics to weather forecasting
+In real-world it is used in all sectors from medical in genetics to weather forecasting
 
 Core points:
 Population : Population is statistics is the whole data.
 Samples : From population if we take random databased on categorize size to analyze it is called samples.
 
 Statistics is of two types :
-1. Predictive Statistics
+1. Inferential Statistics
 2. Descriptive Statistics
+
+Descriptive Statistics:
+Organize the data based on particular statistics.
+
+Inferential Statistics:
+Analysing large amount of data based on small datasets.
+
+
+Variable :
+The values which is unique and induvidual is called variable.
+
+Quantitave
+Values that holds numerical value
+
+Qualitative
+Values that holds categorical values
+
+
+Data
+Structured
+1. Quantative data
+    1. Discrete : No of pets, No of planets 
+    2. Contineous : values from sensors like temperature, Speed
+2. Qualitative data
+    1. Ordinal : Grades of student, which has order. Rating of movie 
+    2. Nominal: Identify an object uniquely and identifying an object, Gender, City , Name of CM
+
+
+Sampling : 
+Sampling is of two types
+
+1. Probability sampling
+Each an every object have equal rights to get selected without partiality.
+
+ (i) Random Sampling : Randomly selecting samples. Lottery system.
+ (ii) Systematic Sampling : Selecting based on order or alternatively but based on any pattern. Two times random sampling.
+ (iii)Statified sampling : First categoring the data , then each group doing random sampling.
+ (iv) 
+2. Non Probability Sampling
+Sample selected based on Bais
+
+
+
+
+
+
+
