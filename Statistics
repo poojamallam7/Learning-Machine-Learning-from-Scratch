@@ -19,6 +19,7 @@ Organize the data based on particular statistics.
 Inferential Statistics:
 Analysing large amount of data based on small datasets.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Variable :
 The values which is unique and induvidual is called variable.
@@ -62,6 +63,51 @@ Sample selected based on Bais
 slowly it becomes huge data. When we dont have any data we take first samples and we go to next sample and continue like that.
 
 Example: People with Artiatis , rupture in bone. People are with this very rare. WHat we do is we go to clinic and then get the people list.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+How we do analysis?
+1. Sample error : When actual sample output is different from population output is samepl error
+If sample size is more then chnage of occuring of sample error is more.
+
+Types of Statistical measure :
+
+1. Measure of Frequency
+    Number of occurence of particular value in entire dataset, is called measure of frequency.
+
+2. Measure of Position
+    Exact location of particular value in entire location.
+    Identifes Exact location of particular value in entire dataset
+ 
+3. Measure of Central tendency.
+     Whether data values are at end of distribustion
+     Arrangement of Data in dataset is called distribution
+     Whether they are in Mid or towards end
+
+    Distribution : Arrangement of data based on a factor , which incates where data is more concentrated.
+
+    Examples : Based on age mobile usage , Now we can check which point most of the people are there , Data values are accumulated in middle.
+
+    We can calculate
+    1. Mean
+    2. Median
+    3. Mode
+
+    These three values can be calculated 
+    
+4. Measure of Spread: 
+   We can see the deviation rom actual and varied from observed value from actual values.
+   How similar observed values are different from particular set of values.
+
+    1. Range
+    2. IQR       
+    3. Standard Deviation
+    4. Variance
+
+1. Mean : Average
+2. Median : positioned in middle value 
+3. Mode : Most freuently observed value
+
+
 
 
 
